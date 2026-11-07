@@ -1,0 +1,11 @@
+{
+  "name": "zakat-ts-anaam-livestock-table",
+  "version": "1.0.0",
+  "description": "Classical Sa'imah Livestock Zakat Bracket Solver (Camels, Cattle, Sheep) (جدول فرائض زكاة الأنعام: الإبل والبقر والغنم)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
